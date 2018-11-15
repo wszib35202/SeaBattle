@@ -1,0 +1,15 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.non-clicked {
+    
+}
+
+.clicked {
+    -fx-background-color: green;
+}
